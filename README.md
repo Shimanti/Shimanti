@@ -9,21 +9,21 @@
 
 - 🌱 I’m currently learning **Node.js, React, Django, & Dashboard creation**
 
-- 👯 I’m looking to collaborate on **FREE apps**
+- 👯 I’m looking to collaborate on **Healthcare Apps**
 
-- 🤝 I’m looking for help with **an offline Indian Cookbook**
+- 🤝 I’m looking for help with **An Online and Offline Indian Cookbook**
 
 - 👨‍💻 All of my projects are available at **www.github.com/shimanti**
 
 - 📝 I regularly write articles on **Disability, Multiple Sclerosis, & Web Development**
 
-- 💬 Ask me about **python, machine learning, & disability**
+- 💬 Ask me about **Python, Machine Learning, JavaScript, Healthcare & Disability**
 
 - 📫 How to reach me **shimanti@gmail.com**
 
 - 📄 Know about my experiences **www.shimanti.com**
 
-- ⚡ Fun fact **I am sarcastic and I'm learning to speak American English**
+- ⚡ Fun fact **I'm still learning to speak American English**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
