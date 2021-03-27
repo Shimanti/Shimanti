@@ -29,7 +29,6 @@
 <p align="left">
 <a href="https://twitter.com/shimantig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shimantig" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shimantiguha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shimantiguha" height="30" width="40" /></a>
-<a href="https://kaggle.com/shimanti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shimanti" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
