@@ -5,19 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/shimantig" target="blank"><img src="https://img.shields.io/twitter/follow/shimantig?logo=twitter&style=for-the-badge" alt="shimantig" /></a> </p>
 
-- 🔭 I’m currently working on **a Blood Pressure Application to help monitor my BP**
+- 🔭 I’m currently coaching 4 software engineering students on getting their **Ideal Job and Career**
 
-- 🌱 I’m currently learning **Node.js, React, Django, & Dashboard creation**
+- 🔭 I’m currently working on **a Blood Pressure Application to help monitor SYSTOLIC Blood Pressure to avoid stoke and heart attack**
 
-- 👯 I’m looking to collaborate on **Healthcare Apps**
+- 🌱 I’m currently learning **Node.js, React, Django, & everything I can**
 
-- 🤝 I’m looking for help with **An Online and Offline Indian Cookbook**
+- 👯 I’m looking to collaborate on **Future Healthcare Apps**
+
+- 🤝 I’m looking for help with **An Offline Indian Cookbook**
 
 - 👨‍💻 All of my projects are available at **www.github.com/shimanti**
 
-- 📝 I regularly write articles on **Disability, Multiple Sclerosis, & Web Development**
+- 📝 I regularly write articles on **Disability, Job Search & Web Development**
 
-- 💬 Ask me about **Python, Machine Learning, JavaScript, Healthcare & Disability**
+- 💬 Ask me about **Job Search startegies, JavaScript, Healthcare & Disability**
 
 - 📫 How to reach me **shimanti@gmail.com**
 
