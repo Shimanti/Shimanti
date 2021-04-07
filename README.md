@@ -1,3 +1,4 @@
+<img width="32" alt="Screen Shot 2021-04-06 at 6 24 29 PM" src="https://user-images.githubusercontent.com/676501/113797061-6597a600-9705-11eb-9435-75907ce1ea1c.png">
 <h1 align="center">Hi 👋, I'm Shimanti</h1>
 <h3 align="center">A passionate Coach for Pandemic Job Seekers who is also a full stack software developer</h3>
 
