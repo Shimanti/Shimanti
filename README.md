@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shimanti</h1>
-<h3 align="center">A passionate full stack software developer</h3>
+<h3 align="center">A passionate Coach for Pandemic Job Seekers who is also a full stack software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimanti&label=Profile%20views&color=0e75b6&style=flat" alt="shimanti" /> </p>
 
