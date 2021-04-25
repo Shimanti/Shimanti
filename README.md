@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently coaching 4 software engineering students. The goal is an **Ideal Job and Career**
 
-- 🔭 I’m currently working on **a Blood Pressure Application to help monitor SYSTOLIC Blood Pressure to avoid stoke and heart attack**
+- 🔭 I’m currently working on **a Blood Pressure Application to help monitor SYSTOLIC Blood Pressure to avoid stroke and heart attack**
 
 - 🌱 I’m currently learning **Node.js, React, Django, & everything I can**
 
