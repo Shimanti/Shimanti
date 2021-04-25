@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shimantig" target="blank"><img src="https://img.shields.io/twitter/follow/shimantig?logo=twitter&style=for-the-badge" alt="shimantig" /></a> </p>
 
-- 🔭 I’m currently coaching 4 software engineering students on getting their **Ideal Job and Career**
+- 🔭 I’m currently coaching 4 software engineering students. The goal is an **Ideal Job and Career**
 
 - 🔭 I’m currently working on **a Blood Pressure Application to help monitor SYSTOLIC Blood Pressure to avoid stoke and heart attack**
 
