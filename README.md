@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working on **a Blood Pressure Application to help monitor SYSTOLIC Blood Pressure to avoid stroke and heart attack**
 
+- 🌱 I used to work in Finance and with StartUps, as well as big companies. The goal now is to be a **Software Engineer**
+
 - 🌱 I’m currently learning **Node.js, React, Django, & everything I can**
 
 - 👯 I’m looking to collaborate on **Future Healthcare Apps**
