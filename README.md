@@ -1,16 +1,14 @@
 <img width="32" alt="Screen Shot 2021-04-06 at 6 24 29 PM" src="https://user-images.githubusercontent.com/676501/113797061-6597a600-9705-11eb-9435-75907ce1ea1c.png">
 <h1 align="center">Hi 👋, I'm Shimanti</h1>
-<h3 align="center">A passionate Coach for Pandemic Job Seekers</h3>
+<h3 align="center">A passionate health-related software developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimanti&label=Profile%20views&color=0e75b6&style=flat" alt="shimanti" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shimantig" target="blank"><img src="https://img.shields.io/twitter/follow/shimantig?logo=twitter&style=for-the-badge" alt="shimantig" /></a> </p>
 
-- 🔭 I’m currently coaching 4 software engineering students. The goal is an **Ideal Job and Career**
-
 - 🔭 I’m currently working on **a Blood Pressure Application to help monitor SYSTOLIC Blood Pressure to avoid stroke and heart attack**
 
-- 🌱 I used to work in Finance and with StartUps, as well as big companies. The goal now is to be a **Software Engineer**
+- 🌱 I used to work in Finance and with StartUps, as well as big companies. The goal now is to be a **Software Developer**
 
 - 🌱 I’m currently learning **Node.js, React, Django, & everything I can**
 
@@ -20,9 +18,9 @@
 
 - 👨‍💻 All of my projects are available at **www.github.com/shimanti**
 
-- 📝 I regularly write articles on **Disability, Job Search & Web Development**
+- 📝 I regularly write articles on **Disability & Web Development**
 
-- 💬 Ask me about **Job Search startegies, JavaScript, Healthcare & Disability**
+- 💬 Ask me about **JavaScript, Healthcare & Disability**
 
 - 📫 How to reach me **shimanti@gmail.com**
 
