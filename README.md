@@ -6,21 +6,25 @@
 
 <p align="left"> <a href="https://twitter.com/shimantig" target="blank"><img src="https://img.shields.io/twitter/follow/shimantig?logo=twitter&style=for-the-badge" alt="shimantig" /></a> </p>
 
-- 🔭 I’m currently working on **a Blood Pressure Application to help monitor SYSTOLIC Blood Pressure to avoid stroke and heart attack**
+- 🌱 I used to work in Finance and with StartUps, as well as big companies. I am now building my own **Apps**.
 
-- 🌱 I used to work in Finance and with StartUps, as well as big companies. The goal now is to be a **Software Developer**
+- 🤝 I just finished migrating my **Mom's Indian Cookbook Vol1** from a PDF to a React App.
+
+- 🔭 I’m working on **a Blood Pressure Application**
+
+- 👨‍💻 My current goal is to help friends be **Software Engineers**
 
 - 🌱 I’m currently learning **Node.js, React, Django, & everything I can**
 
-- 👯 I’m looking to collaborate on **Future Healthcare Apps**
+- 👯 I’m looking to collaborate on **Group Projects in React**
 
-- 🤝 I’m looking for help with **An Offline Indian Cookbook**
+
 
 - 👨‍💻 All of my projects are available at **www.github.com/shimanti**
 
-- 📝 I regularly write articles on **Disability & Web Development**
+- 📝 I have a Covid blog at **www.shimanti.com/blog**
 
-- 💬 Ask me about **JavaScript, Healthcare & Disability**
+- 💬 Ask me about **JavaScript, Networking, Indian Cooking**
 
 - 📫 How to reach me **shimanti@gmail.com**
 
