@@ -14,9 +14,9 @@
 
 - 👨‍💻 My current goal is to help friends be **Software Engineers**
 
-- 🌱 I’m currently learning **Node.js, React, Django, & everything I can**
+- 🌱 I’m currently learning **Node.js, React, Django, ML, & everything I can**
 
-- 👯 I’m looking to collaborate on **Group Projects in React**
+- 👯 I’m looking to collaborate on **Group Projects**
 
 
 
@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **shimanti@gmail.com**
 
-- 📄 Know about my experiences **www.shimanti.com**
+- 📄 Know about my experiences @ **www.shimanti.com**
 
 - ⚡ Fun fact **I'm still learning to speak American English**
 
