@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Node.js, React, Django, ML, & everything I can**
 
-- 👯 I’m collaborating on a DoggySocial **Group Projects**
+- 👯 I’m collaborating on a DoggySocial **Group Project**
 
 
 
