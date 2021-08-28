@@ -8,7 +8,7 @@
 
 - 🌱 I used to work in Finance and with StartUps, as well as big companies. I am now building my own **Apps**.
 
-- 🤝 I just finished migrating my **Mom's Indian Cookbook Vol1** from a PDF to a React App.
+- 🤝 I migrated my **Mom's Indian Cookbook Vol1** from a PDF to a React App.
 
 - 🔭 I’m working on **a Blood Pressure Application**
 
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Node.js, React, Django, ML, & everything I can**
 
-- 👯 I’m looking to collaborate on **Group Projects**
+- 👯 I’m collaborating on a DoggySocial **Group Projects**
 
 
 
