@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/shimantig" target="blank"><img src="https://img.shields.io/twitter/follow/shimantig?logo=twitter&style=for-the-badge" alt="shimantig" /></a> </p>
 
-- 🌱 I used to work in Finance, with StartUps, as well as big companies. I am now building my own **Apps**.
+- 🌱 I used to work in Finance, with StartUps, as well as big companies. I am now building my own **Apps**
 
-- 🤝 I migrated my **Mom's Indian Cookbook Vol1** from a PDF to a React App.
+- 🤝 I migrated my **Mom's Indian Cookbook Vol1** from a PDF to a React App
 
 - 🔭 I’m working on **a Blood Pressure Application**
 
