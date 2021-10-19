@@ -12,7 +12,7 @@
 
 - 🔭 I’m working on **a Blood Pressure Application**
 
-- 👨‍💻 My current goal is to help friends be **Software Engineers**
+- 👨‍💻 My current goal is to **Learn**
 
 - 🌱 I’m currently learning **Node.js, React, Django, ML, & everything I can**
 
