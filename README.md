@@ -10,7 +10,7 @@
 
 - 🤝 I migrated my **Mom's Indian Cookbook Vol1** from a PDF to a React App
 
-- 🔭 I’m working on **a Blood Pressure Application**
+- 🔭 I’m working on everything except **a Blood Pressure Application**. I wanted to do that, but my blood pressure improved with walking. I encourage everyone to walk, if possible.
 
 - 👨‍💻 My current goal is to **Learn**
 
