@@ -8,13 +8,13 @@
 
 - 🌱 I used to work in Finance, with StartUps, as well as big companies. I am now building my own **Apps**
 
-- 🤝 I migrated my **Mom's Indian Cookbook Vol1** to an App from written copy from a 1996 PDF!
+- 🤝 I migrated my **Mom's Indian Cookbook Vol1** to an App.  I'm waiting to learn design before updating it's CSS.
 
-- 🔭 I’m working on everything except **a Blood Pressure Application**. I wanted to do that, but my blood pressure improved with walking. I encourage everyone to walk, if possible.
+- 🔭 I’m working on everything except **a Blood Pressure Application**. I wanted to develop an app, but my blood pressure improved with walking. I encourage everyone to walk, if possible.
 
-- 👨‍💻 My current goal is to **Learn**
+- 👨‍💻 My current goal is to **Learn, and Learn, and Learn**
 
-- 🌱 I’m currently learning **Node.js, React, Django, ML, & everything I can**
+- 🌱 I’m currently learning **React (with interludes back into advanced CSS, advanced JavaScrit, Node.js), Django, ML, & everything I can**
 
 - 👯 I’m collaborating on a DoggySocial **Group Project**
 
@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **shimanti@gmail.com**
 
-- 📄 Know about my experiences @ **www.shimanti.com**
+- 📄 Know about my experiences @ **www.shimanti.com** and via <a href="https://hashnode.com/post/my-path-to-software-engineering-ckv2i6ugx0grlp5s1h3hd7dfw">my blog</a>
 
 - ⚡ Fun fact **I'm still learning to speak American English**
 
