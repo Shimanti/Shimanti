@@ -14,7 +14,7 @@
 
 - 👨‍💻 My current goal is to **Learn, and Learn, and Learn**
 
-- 🌱 I’m currently learning **React (with interludes back into advanced CSS, advanced JavaScrit, Node.js), Django, ML, & everything I can**
+- 🌱 I’m currently learning **React (with interludes back into advanced CSS, advanced JavaScrit, Node.js), Django, ML, & everything**
 
 - 👯 I’m collaborating on a DoggySocial **Group Project**
 
