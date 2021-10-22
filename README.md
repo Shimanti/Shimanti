@@ -22,13 +22,13 @@
 
 - 👨‍💻 All of my projects are available at **www.github.com/shimanti**
 
-- 📝 I have a Covid blog at **www.shimanti.com/blog**
+- 📝 I have a Covid blog at **<a href="https://hashnode.com/post/my-path-to-software-engineering-ckv2i6ugx0grlp5s1h3hd7dfw">my blog</a>**
 
 - 💬 Ask me about **JavaScript, Networking, Indian Cooking**
 
 - 📫 How to reach me **shimanti@gmail.com**
 
-- 📄 Know about my experiences @ **www.shimanti.com** and via <a href="https://hashnode.com/post/my-path-to-software-engineering-ckv2i6ugx0grlp5s1h3hd7dfw">my blog</a>
+- 📄 Know about my experiences @ **www.shimanti.com** 
 
 - ⚡ Fun fact **I'm still learning to speak American English**
 
