@@ -12,7 +12,7 @@
 
 - 🔭 I’m working on everything except **a Blood Pressure Application**. I wanted to develop an app, but my blood pressure improved with walking. I encourage everyone to walk, if possible.
 
-- 👨‍💻 My current goal is to **Learn, and Learn, and Learn**
+- 👨‍💻 My current goal is to **learn and learn**
 
 - 🌱 I’m currently learning **React (with interludes back into advanced CSS, advanced JavaScrit, Node.js), Django, ML, & everything**
 
