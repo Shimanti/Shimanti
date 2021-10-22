@@ -8,7 +8,7 @@
 
 - 🌱 I used to work in Finance, with StartUps, as well as big companies. I am now building my own **Apps**
 
-- 🤝 I migrated my **Mom's Indian Cookbook Vol1** from a PDF to a React App
+- 🤝 I migrated my **Mom's Indian Cookbook Vol1** to an App from written copy from a 1996 PDF!
 
 - 🔭 I’m working on everything except **a Blood Pressure Application**. I wanted to do that, but my blood pressure improved with walking. I encourage everyone to walk, if possible.
 
