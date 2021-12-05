@@ -8,7 +8,7 @@
 
 - 🌱 I used to work in Finance, with StartUps, as well as big companies. I am now building my own **Apps**
 
-- 🤝 I migrated my **Mom's Indian Cookbook Vol1** to an App.  I'm waiting to learn design before updating it's CSS
+- 🤝 I wrote Python scripts to webscrapw my computer for music.
 
 - 🔭 I’m working on everything except **a Blood Pressure Application**. I wanted to develop an app, but my blood pressure improved with walking. I encourage everyone to walk, if possible
 
@@ -30,7 +30,7 @@
 
 - 📄 Know about my experiences @ **www.shimanti.com** 
 
-- ⚡ Fun fact **I'm still learning to speak American English**
+- ⚡ Fun fact **I'm a Brit/Indian/American who has traveled to China/India/Europe/Latin America**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
