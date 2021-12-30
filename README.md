@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/shimantig" target="blank"><img src="https://img.shields.io/twitter/follow/shimantig?logo=twitter&style=for-the-badge" alt="shimantig" /></a> </p>
 
-- 🌱 I used to work in Finance, with StartUps, as well as big companies. I am now building my own **Apps**
+- 🌱 I used to work in Finance, with StartUps, as well as big companies. I am now building my own **Apps**.
 
-- 🤝 I wrote Python scripts to webscrapw my computer for music.
+- 🤝 I wrote Python scripts to webscrape my computer for music.
 
-- 🔭 I’m working on everything except **a Blood Pressure Application**. I wanted to develop an app, but my blood pressure improved with walking. I encourage everyone to walk, if possible
+- 🔭 I’m working on **a Blood Pressure Application**. 
 
 - 👨‍💻 My current goal is to **learn and learn**
 
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at **www.github.com/shimanti**
 
-- 📝 I have a 100 Days of Code blog at **<a href="https://hashnode.com/post/my-path-to-software-engineering-ckv2i6ugx0grlp5s1h3hd7dfw">Hashnode</a>**
+- 📝 I have a blog at **<a href="https://hashnode.com/post/my-path-to-software-engineering-ckv2i6ugx0grlp5s1h3hd7dfw">Hashnode</a>**
 
 - 💬 Ask me about **JavaScript, Networking, Indian Cooking**
 
