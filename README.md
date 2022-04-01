@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at **www.github.com/shimanti**
 
-- 📝 I have a blog at **<a href="https://hashnode.com/post/my-path-to-software-engineering-ckv2i6ugx0grlp5s1h3hd7dfw">Hashnode</a>**, but only made one entry.
+- 📝 I have a blog at **<a href="https://hashnode.com/post/my-path-to-software-engineering-ckv2i6ugx0grlp5s1h3hd7dfw">Hashnode</a>**
 
 - 💬 Ask me about **JavaScript, Networking, Indian Cooking**
 
