@@ -14,7 +14,7 @@
 
 - 👨‍💻 My current goal is to **learn and learn**
 
-- 🌱 I’m currently learning **React (with interludes back into advanced CSS, advanced JavaScrit, Node.js), Django, ML, & everything**
+- 🌱 I’m currently learning **React (with interludes back into advanced CSS, advanced JavaScript, Node.js), Django, ML, & everything**
 
 - 👯 I’m collaborating on a DoggySocial **Group Project**
 
@@ -22,11 +22,11 @@
 
 - 👨‍💻 All of my projects are available at **www.github.com/shimanti**
 
-- 📝 I have a blog at **<a href="https://hashnode.com/post/my-path-to-software-engineering-ckv2i6ugx0grlp5s1h3hd7dfw">Hashnode</a>**
+- 📝 I have a blog at **<a href="https://hashnode.com/post/my-path-to-software-engineering-ckv2i6ugx0grlp5s1h3hd7dfw">Hashnode</a>**, but only made one entry.
 
 - 💬 Ask me about **JavaScript, Networking, Indian Cooking**
 
-- 📫 How to reach me **shimanti@gmail.com**
+- 📫 How to reach me **shimanti@shimanti.com**
 
 - 📄 Know about my experiences @ **www.shimanti.com** 
 
