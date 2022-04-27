@@ -20,7 +20,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at **www.github.com/shimanti**
+- 👨‍💻 My projects are available at **www.github.com/shimanti**
 
 - 📝 I have a blog at **<a href="https://hashnode.com/post/my-path-to-software-engineering-ckv2i6ugx0grlp5s1h3hd7dfw">Hashnode</a>**
 
