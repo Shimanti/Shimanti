@@ -8,7 +8,7 @@
 
 - 🌱 I used to work in Finance, with StartUps, as well as big companies. I am now building my own **Apps**.
 
-- 🤝 I wrote Python scripts to webscrape my computer for music.
+- 🤝 I wrote Python scripts to compare top 500 songs to my computer collection for music.
 
 - 🔭 I’m working on **a Blood Pressure Application**. 
 
