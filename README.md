@@ -1,6 +1,6 @@
 <img width="32" alt="Screen Shot 2021-04-06 at 6 24 29 PM" src="https://user-images.githubusercontent.com/676501/113797061-6597a600-9705-11eb-9435-75907ce1ea1c.png">
 <h1 align="center">Hi 👋, I'm Shimanti</h1>
-<h3 align="center">A passionate software developer </h3>
+<h3 align="center">An AI Enthusiast and a software developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimanti&label=Profile%20views&color=0e75b6&style=flat" alt="shimanti" /> </p>
 
